@@ -1,7 +1,6 @@
 # Wstęp do grafiki komputerowej
 ```
 npm install
-npm run build
-npx http-server dist -p 8000
+npm start
 ```
 [http://localhost:8000]()
