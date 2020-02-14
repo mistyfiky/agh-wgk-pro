@@ -1,0 +1,28 @@
+{
+  "name": "agh-wgk-pro",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mistyfiky/agh-wgk-pro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mistyfiky/agh-wgk-pro/issues"
+  },
+  "homepage": "https://github.com/mistyfiky/agh-wgk-pro#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "three": "^0.113.2"
+  }
+}
